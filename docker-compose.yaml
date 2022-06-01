@@ -4,15 +4,17 @@ services:
         build: 
             dockerfile: dockerfile
             context: . 
+        ports:
+            - "5000:5000"
 
-    web_server:
-        restart: always
-        build: 
-          dockerfile: dockerfile
-          context: ./web
-        ports: 
-          - '5000:80'
+#     web_server:
+#         restart: always
+#         build: 
+#           dockerfile: dockerfile
+#           context: ./web
+#         ports: 
+#           - '5000:80'
 
-networks:
-    chat-bot:
-        driver: bridge
+# networks:
+#     chat-bot:
+#         driver: bridge

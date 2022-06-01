@@ -1,13 +1,6 @@
-from flask import Flask, render_template, request
-
-#from chatbot import chatbot
-import os
-
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 from chatterbot.trainers import ChatterBotCorpusTrainer
-import os
-# Creating ChatBot Instancep
 
 chatbot = ChatBot(
     'Chatty',
@@ -34,17 +27,19 @@ trainer.train(training_data)
 # Training with English Corpus Data 
 trainer_corpus = ChatterBotCorpusTrainer(chatbot)
 
+from flask import Flask, render_template, request
+
 app = Flask(__name__)
 app.static_folder = 'static'
 
-    
 @app.route("/")
 def home():
     return render_template("index.html")
-    
+
 @app.route("/get")
 def get_bot_response():
     userText = request.args.get('msg')
     return str(chatbot.get_response(userText))
 
-
+if __name__ == '__main__':
+    app.run(host="0.0.0.0", debug=True)
