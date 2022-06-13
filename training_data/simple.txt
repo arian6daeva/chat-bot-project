@@ -1,6 +1,5 @@
 Hi
 Hello,i am chatty
-
 who are you?
 i am chatty the chatbot
 Hello
