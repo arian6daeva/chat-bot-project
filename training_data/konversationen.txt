@@ -1,0 +1,518 @@
+hallo
+Hallo, ich bin der digitale Assistent der DHBW Stuttgart.
+wer bist du?
+Hallo, ich bin der digitale Assistent der DHBW Stuttgart.
+wer ist da?
+Hallo, ich bin der digitale Assistent der DHBW Stuttgart.
+hey
+Hallo, ich bin der digitale Assistent der DHBW Stuttgart.
+hi
+Hallo, ich bin der digitale Assistent der DHBW Stuttgart.
+hello
+Hallo, ich bin der digitale Assistent der DHBW Stuttgart.
+moin
+Hallo, ich bin der digitale Assistent der DHBW Stuttgart.
+wie geht es dir?
+Mir geht's gut. Wie geht's dir?
+gut
+Das freut mich. Wie kann ich dir helfen?
+wie geht es dir?
+Mir geht's gut. Wie geht's dir?
+super
+Das freut mich. Wie kann ich dir helfen?
+wie geht es dir?
+Mir geht's gut. Wie geht's dir?
+okay
+Alles klar. Wie kann ich dir helfen?
+wie geht es dir?
+Mir geht's gut. Wie geht's dir?
+ok
+Alles klar. Wie kann ich dir helfen?
+wie geht es dir?
+Mir geht's gut. Wie geht's dir?
+schlecht
+Das ist schade. Kann ich dir denn irgendwie weiterhelfen?
+wie geht es dir?
+Mir geht's gut. Wie geht's dir?
+nicht so gut
+Das ist schade. Kann ich dir denn irgendwie weiterhelfen?
+was geht?
+Mir geht's gut. Wie geht's dir?
+gut
+Das freut mich. Wie kann ich dir helfen?
+was geht?
+Mir geht's gut. Wie geht's dir?
+super
+Das freut mich. Wie kann ich dir helfen?
+was geht?
+Mir geht's gut. Wie geht's dir?
+okay
+Alles klar. Wie kann ich dir helfen?
+was geht?
+Mir geht's gut. Wie geht's dir?
+ok
+Alles klar. Wie kann ich dir helfen?
+was geht?
+Mir geht's gut. Wie geht's dir?
+schlecht
+Das ist schade. Kann ich dir denn irgendwie weiterhelfen?
+was geht?
+Mir geht's gut. Wie geht's dir?
+nicht so gut
+Das ist schade. Kann ich dir denn irgendwie weiterhelfen?
+wie geht's?
+Mir geht's gut. Wie geht's dir?
+gut
+Das freut mich. Wie kann ich dir helfen?
+wie geht's?
+Mir geht's gut. Wie geht's dir?
+super
+Das freut mich. Wie kann ich dir helfen?
+wie geht's?
+Mir geht's gut. Wie geht's dir?
+okay
+Alles klar. Wie kann ich dir helfen?
+wie geht's?
+Mir geht's gut. Wie geht's dir?
+ok
+Alles klar. Wie kann ich dir helfen?
+wie geht's?
+Mir geht's gut. Wie geht's dir?
+schlecht
+Das ist schade. Kann ich dir denn irgendwie weiterhelfen?
+wie geht's?
+Mir geht's gut. Wie geht's dir?
+nicht so gut
+Das ist schade. Kann ich dir denn irgendwie weiterhelfen?
+Welche Studiengänge bietet die DHBW Stuttgart an?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Ich interessiere mich für Bachelor-Studiengänge.
+Eine vollständige Liste der Bachelor-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/
+Danke sehr.
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Welche Studiengänge bietet die DHBW Stuttgart an?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Bachelor
+Eine vollständige Liste der Bachelor-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/
+Danke schön.
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Welche Studiengänge bietet die DHBW Stuttgart an?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Bachelor-Studiengänge
+Eine vollständige Liste der Bachelor-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/
+danke
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Welche Studiengänge bietet die DHBW Stuttgart an?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Ich interessiere mich für Master-Studiengänge.
+Eine vollständige Liste der Master-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/master-studienangebot/
+vielen dank
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Welche Studiengänge bietet die DHBW Stuttgart an?
+Interessierst du dich für Master-Studiengänge oder Master-Studiengänge?
+Master
+Eine vollständige Liste der Master-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/master-studienangebot/
+danke sehr
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Welche Studiengänge bietet die DHBW Stuttgart an?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Master-Studiengänge
+Eine vollständige Liste der Master-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/master-studienangebot/
+thanks
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Was kann ich an der DHBW studieren?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Ich interessiere mich für Bachelor-Studiengänge.
+Eine vollständige Liste der Bachelor-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/
+dank
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Was kann ich an der DHBW studieren?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Bachelor
+Eine vollständige Liste der Bachelor-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/
+vielen lieben dank!
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Was kann ich an der DHBW studieren?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Bachelor-Studiengänge
+Eine vollständige Liste der Bachelor-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/
+thx
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Was kann ich an der DHBW studieren?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Ich interessiere mich für Master-Studiengänge.
+Eine vollständige Liste der Master-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/master-studienangebot/
+thanks
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Was kann ich an der DHBW studieren?
+Interessierst du dich für Master-Studiengänge oder Master-Studiengänge?
+Master
+Eine vollständige Liste der Master-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/master-studienangebot/
+dankeschön
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Was kann ich an der DHBW studieren?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Master-Studiengänge
+Eine vollständige Liste der Master-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/master-studienangebot/
+danke sehr
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Studiengänge an der DHBW
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Ich interessiere mich für Bachelor-Studiengänge.
+Eine vollständige Liste der Bachelor-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/
+dankeschön
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Studiengänge an der DHBW
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Bachelor
+Eine vollständige Liste der Bachelor-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/
+vielen dank
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Studiengänge an der DHBW
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Bachelor-Studiengänge
+Eine vollständige Liste der Bachelor-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/
+danke sehr
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Studiengänge an der DHBW
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Ich interessiere mich für Master-Studiengänge.
+Eine vollständige Liste der Master-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/master-studienangebot/
+lieben dank
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Studiengänge an der DHBW
+Interessierst du dich für Master-Studiengänge oder Master-Studiengänge?
+Master
+Eine vollständige Liste der Master-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/master-studienangebot/
+danke
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Studiengänge an der DHBW
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Master-Studiengänge
+Eine vollständige Liste der Master-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/master-studienangebot/
+thx
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Welche Studienfächer gibt an der DHBW-Stuttgart?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Ich interessiere mich für Bachelor-Studiengänge.
+Eine vollständige Liste der Bachelor-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/
+danke sehr
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Welche Studienfächer gibt an der DHBW-Stuttgart?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Bachelor
+Eine vollständige Liste der Bachelor-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/
+vielen dank
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Welche Studienfächer gibt an der DHBW-Stuttgart?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Bachelor-Studiengänge
+Eine vollständige Liste der Bachelor-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/
+danke sehr
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Welche Studienfächer gibt an der DHBW-Stuttgart?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Ich interessiere mich für Master-Studiengänge.
+Eine vollständige Liste der Master-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/master-studienangebot/
+thanks
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Welche Studienfächer gibt an der DHBW-Stuttgart?
+Interessierst du dich für Master-Studiengänge oder Master-Studiengänge?
+Master
+Eine vollständige Liste der Master-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/master-studienangebot/
+danke schön
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+Welche Studienfächer gibt an der DHBW-Stuttgart?
+Interessierst du dich für Bachelor-Studiengänge oder Master-Studiengänge?
+Master-Studiengänge
+Eine vollständige Liste der Master-Studiengänge findest du unter folgendem Link: https://www.dhbw-stuttgart.de/studium/master-studienangebot/
+danke
+Gern geschehen! Es freut mich, dass ich dir weiterhelfen konnte.
+wo finde ich meine noten?
+Deine Noten kannst du im DHBW-Portal „Dualis“ nachschauen: https://dualis.dhbw.de/
+wo kann ich meine noten einsehen?
+Deine Noten kannst du im DHBW-Portal „Dualis“ nachschauen: https://dualis.dhbw.de/
+wie kann ich meine noten einsehen?
+Deine Noten kannst du im DHBW-Portal „Dualis“ nachschauen: https://dualis.dhbw.de/
+welche noten habe ich?
+Deine Noten kannst du im DHBW-Portal „Dualis“ nachschauen: https://dualis.dhbw.de/
+wo kann ich meine prüfungsergebnisse finden?
+Deine Noten kannst du im DHBW-Portal „Dualis“ nachschauen: https://dualis.dhbw.de/
+wie finde ich meine prüfungsleistungen?
+Deine Noten kannst du im DHBW-Portal „Dualis“ nachschauen: https://dualis.dhbw.de/
+wo finde ich meine studienbescheinigung?
+Deine Studienbescheinigung findest du im DHBW-Portal „Dualis“: https://dualis.dhbw.de/
+wo finde ich meinen immatrikulationsbescheid?
+Deine Studienbescheinigung findest du im DHBW-Portal „Dualis“: https://dualis.dhbw.de/
+wie kann ich den studiumsnachweis einsehen?
+Deine Studienbescheinigung findest du im DHBW-Portal „Dualis“: https://dualis.dhbw.de/
+wo kann ich den studiennachweis einsehen?
+Deine Studienbescheinigung findest du im DHBW-Portal „Dualis“: https://dualis.dhbw.de/
+welche module hat mein studium?
+Es gibt vier verschiedene Schwerpunkte im Studiengang Wirtschaftsinformatik. Die verschiedenen Modulbeschreibungen findest du unter den folgenden Links. Application Management: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Application_Management.pdf; Sales and Consulting: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Sales_and_Consulting.pdf; Data Science: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen-WI-Data-Science.pdf; IMBIT: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_IMBIT.pdf
+wo finde ich die modulbeschreibung von meinem studium?
+Es gibt vier verschiedene Schwerpunkte im Studiengang Wirtschaftsinformatik. Die verschiedenen Modulbeschreibungen findest du unter den folgenden Links. Application Management: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Application_Management.pdf; Sales and Consulting: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Sales_and_Consulting.pdf; Data Science: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen-WI-Data-Science.pdf; IMBIT: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_IMBIT.pdf
+welche vorlesungen hat das wirtschaftsinformatik-studium?
+Es gibt vier verschiedene Schwerpunkte im Studiengang Wirtschaftsinformatik. Die verschiedenen Modulbeschreibungen findest du unter den folgenden Links. Application Management: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Application_Management.pdf; Sales and Consulting: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Sales_and_Consulting.pdf; Data Science: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen-WI-Data-Science.pdf; IMBIT: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_IMBIT.pdf
+welche fächer habe ich im studium?
+Es gibt vier verschiedene Schwerpunkte im Studiengang Wirtschaftsinformatik. Die verschiedenen Modulbeschreibungen findest du unter den folgenden Links. Application Management: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Application_Management.pdf; Sales and Consulting: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Sales_and_Consulting.pdf; Data Science: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen-WI-Data-Science.pdf; IMBIT: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_IMBIT.pdf
+in welchen fächern schreibe ich klausuren?
+Alle Informationen zu den Klausuren im Wirtschaftsinformatik-Studium findest du in der Modulbeschreibung des jeweiligen Schwerpunkts. Application Management: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Application_Management.pdf; Sales and Consulting: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Sales_and_Consulting.pdf; Data Science: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen-WI-Data-Science.pdf; IMBIT: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_IMBIT.pdf
+in welchen fächern schreibe ich eine klausur?
+Alle Informationen zu den Klausuren im Wirtschaftsinformatik-Studium findest du in der Modulbeschreibung des jeweiligen Schwerpunkts. Application Management: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Application_Management.pdf; Sales and Consulting: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Sales_and_Consulting.pdf; Data Science: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen-WI-Data-Science.pdf; IMBIT: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_IMBIT.pdf
+worin schreiben wir einen test?
+Alle Informationen zu den Klausuren im Wirtschaftsinformatik-Studium findest du in der Modulbeschreibung des jeweiligen Schwerpunkts. Application Management: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Application_Management.pdf; Sales and Consulting: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Sales_and_Consulting.pdf; Data Science: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen-WI-Data-Science.pdf; IMBIT: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_IMBIT.pdf
+was für klausuren gibt es?
+Alle Informationen zu den Klausuren im Wirtschaftsinformatik-Studium findest du in der Modulbeschreibung des jeweiligen Schwerpunkts. Application Management: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Application_Management.pdf; Sales and Consulting: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Sales_and_Consulting.pdf; Data Science: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen-WI-Data-Science.pdf; IMBIT: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_IMBIT.pdf
+welche prüfungsleistungen gibt es?
+Alle Informationen zu den Klausuren im Wirtschaftsinformatik-Studium findest du in der Modulbeschreibung des jeweiligen Schwerpunkts. Application Management: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Application_Management.pdf; Sales and Consulting: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Sales_and_Consulting.pdf; Data Science: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen-WI-Data-Science.pdf; IMBIT: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_IMBIT.pdf
+welche prüfungsleistungen muss ich erbringen?
+Alle Informationen zu den Klausuren im Wirtschaftsinformatik-Studium findest du in der Modulbeschreibung des jeweiligen Schwerpunkts. Application Management: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Application_Management.pdf; Sales and Consulting: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_Sales_and_Consulting.pdf; Data Science: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen-WI-Data-Science.pdf; IMBIT: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studienrichtung_IMBIT.pdf
+kann ich meine kurse anrechnen lassen?
+Studien- und Prüfungsleistungen von anderen Hochschulen oder Universitäten werden anerkannt, wenn die jeweiligen Inhalte gleichwertig zu den Inhalten der DHBW sind. Eine ausführliche Antwort inklusive weiterer Informationen findest du unter folgendem Link auf Seite 2: https://www.dhbw-stuttgart.de/fileadmin/dateien/Studienberatung/FAQ_Studieninteressierte.pdf
+kann ich prüfungsleistungen von einer anderen hochschule anrechnen lassen?
+Studien- und Prüfungsleistungen von anderen Hochschulen oder Universitäten werden anerkannt, wenn die jeweiligen Inhalte gleichwertig zu den Inhalten der DHBW sind. Eine ausführliche Antwort inklusive weiterer Informationen findest du unter folgendem Link auf Seite 2: https://www.dhbw-stuttgart.de/fileadmin/dateien/Studienberatung/FAQ_Studieninteressierte.pdf
+werden leistungen von einer anderen uni anerkannt?
+Studien- und Prüfungsleistungen von anderen Hochschulen oder Universitäten werden anerkannt, wenn die jeweiligen Inhalte gleichwertig zu den Inhalten der DHBW sind. Eine ausführliche Antwort inklusive weiterer Informationen findest du unter folgendem Link auf Seite 2: https://www.dhbw-stuttgart.de/fileadmin/dateien/Studienberatung/FAQ_Studieninteressierte.pdf
+werden kurse von anderen hochschulen angerechnet?
+Studien- und Prüfungsleistungen von anderen Hochschulen oder Universitäten werden anerkannt, wenn die jeweiligen Inhalte gleichwertig zu den Inhalten der DHBW sind. Eine ausführliche Antwort inklusive weiterer Informationen findest du unter folgendem Link auf Seite 2: https://www.dhbw-stuttgart.de/fileadmin/dateien/Studienberatung/FAQ_Studieninteressierte.pdf
+gibt es eine anrechnung von prüfungsleistungen aus einem vorherigen studium?
+Studien- und Prüfungsleistungen von anderen Hochschulen oder Universitäten werden anerkannt, wenn die jeweiligen Inhalte gleichwertig zu den Inhalten der DHBW sind. Eine ausführliche Antwort inklusive weiterer Informationen findest du unter folgendem Link auf Seite 2: https://www.dhbw-stuttgart.de/fileadmin/dateien/Studienberatung/FAQ_Studieninteressierte.pdf
+werden leistungen aus einem anderen studium angerechnet/anerkannt?
+Studien- und Prüfungsleistungen von anderen Hochschulen oder Universitäten werden anerkannt, wenn die jeweiligen Inhalte gleichwertig zu den Inhalten der DHBW sind. Eine ausführliche Antwort inklusive weiterer Informationen findest du unter folgendem Link auf Seite 2: https://www.dhbw-stuttgart.de/fileadmin/dateien/Studienberatung/FAQ_Studieninteressierte.pdf
+was sind die vorgaben zur bachelorarbeit?
+Alle relevanten Informationen zur Bachelorarbeit und zu den Projektarbeiten im Studiengang Wirtschaftsinformatik findest du hier: https://www.dhbw-stuttgart.de/studierendenportal/wirtschaftsinformatik/pruefungsleistungen/projekt-/bachelorarbeit/
+was sind die vorgaben zu den projektarbeiten?
+Alle relevanten Informationen zur Bachelorarbeit und zu den Projektarbeiten im Studiengang Wirtschaftsinformatik findest du hier: https://www.dhbw-stuttgart.de/studierendenportal/wirtschaftsinformatik/pruefungsleistungen/projekt-/bachelorarbeit/
+wie lang muss die bachelorarbeit sein?
+Alle relevanten Informationen zur Bachelorarbeit und zu den Projektarbeiten im Studiengang Wirtschaftsinformatik findest du hier: https://www.dhbw-stuttgart.de/studierendenportal/wirtschaftsinformatik/pruefungsleistungen/projekt-/bachelorarbeit/
+wie muss ich die bachelorarbeit ausdrucken?
+Alle relevanten Informationen zur Bachelorarbeit und zu den Projektarbeiten im Studiengang Wirtschaftsinformatik findest du hier: https://www.dhbw-stuttgart.de/studierendenportal/wirtschaftsinformatik/pruefungsleistungen/projekt-/bachelorarbeit/
+wie lang muss die projektarbeit sein?
+Alle relevanten Informationen zur Bachelorarbeit und zu den Projektarbeiten im Studiengang Wirtschaftsinformatik findest du hier: https://www.dhbw-stuttgart.de/studierendenportal/wirtschaftsinformatik/pruefungsleistungen/projekt-/bachelorarbeit/
+wie muss ich die projektarbeit ausdrucken?
+Alle relevanten Informationen zur Bachelorarbeit und zu den Projektarbeiten im Studiengang Wirtschaftsinformatik findest du hier: https://www.dhbw-stuttgart.de/studierendenportal/wirtschaftsinformatik/pruefungsleistungen/projekt-/bachelorarbeit/
+wo finde ich die zitierrichtlinien?
+Alle relevanten Informationen zur Bachelorarbeit und zu den Projektarbeiten im Studiengang Wirtschaftsinformatik findest du hier: https://www.dhbw-stuttgart.de/studierendenportal/wirtschaftsinformatik/pruefungsleistungen/projekt-/bachelorarbeit/
+welchen zitatstil muss ich verwenden?
+Alle relevanten Informationen zur Bachelorarbeit und zu den Projektarbeiten im Studiengang Wirtschaftsinformatik findest du hier: https://www.dhbw-stuttgart.de/studierendenportal/wirtschaftsinformatik/pruefungsleistungen/projekt-/bachelorarbeit/
+worauf ist bei indirekten zitaten zu achten?
+Alle relevanten Informationen zur Bachelorarbeit und zu den Projektarbeiten im Studiengang Wirtschaftsinformatik findest du hier: https://www.dhbw-stuttgart.de/studierendenportal/wirtschaftsinformatik/pruefungsleistungen/projekt-/bachelorarbeit/
+wie macht man direkte zitate in wissenschaftlichen arbeiten?
+Alle relevanten Informationen zur Bachelorarbeit und zu den Projektarbeiten im Studiengang Wirtschaftsinformatik findest du hier: https://www.dhbw-stuttgart.de/studierendenportal/wirtschaftsinformatik/pruefungsleistungen/projekt-/bachelorarbeit/
+worauf ist bei wissenschaftlichen arbeiten zu achten?
+Alle relevanten Informationen zur Bachelorarbeit und zu den Projektarbeiten im Studiengang Wirtschaftsinformatik findest du hier: https://www.dhbw-stuttgart.de/studierendenportal/wirtschaftsinformatik/pruefungsleistungen/projekt-/bachelorarbeit/
+wo finde ich die vorlesungsskripte?
+Die Vorlesungsskripte und alle weiteren Dateien, die Dozentinnen und Dozenten mit dir teilen, findest du im E-Learning-Portal Moodle. Melde dich dazu einfach unter folgendem Link mit deinen DHBW-Login-Daten an: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studiengang_Wirtschaftsinformatik.pdf
+wo sind die skripte?
+Die Vorlesungsskripte und alle weiteren Dateien, die Dozentinnen und Dozenten mit dir teilen, findest du im E-Learning-Portal Moodle. Melde dich dazu einfach unter folgendem Link mit deinen DHBW-Login-Daten an: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studiengang_Wirtschaftsinformatik.pdf
+skripte
+Die Vorlesungsskripte und alle weiteren Dateien, die Dozentinnen und Dozenten mit dir teilen, findest du im E-Learning-Portal Moodle. Melde dich dazu einfach unter folgendem Link mit deinen DHBW-Login-Daten an: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studiengang_Wirtschaftsinformatik.pdf
+was ist auf moodle?
+Die Vorlesungsskripte und alle weiteren Dateien, die Dozentinnen und Dozenten mit dir teilen, findest du im E-Learning-Portal Moodle. Melde dich dazu einfach unter folgendem Link mit deinen DHBW-Login-Daten an: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studiengang_Wirtschaftsinformatik.pdf
+wie finde ich die vorlesungsunterlagen?
+Die Vorlesungsskripte und alle weiteren Dateien, die Dozentinnen und Dozenten mit dir teilen, findest du im E-Learning-Portal Moodle. Melde dich dazu einfach unter folgendem Link mit deinen DHBW-Login-Daten an: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studiengang_Wirtschaftsinformatik.pdf
+wo kann ich die übungsaufgaben und vorlesungsskripte einsehen?
+Die Vorlesungsskripte und alle weiteren Dateien, die Dozentinnen und Dozenten mit dir teilen, findest du im E-Learning-Portal Moodle. Melde dich dazu einfach unter folgendem Link mit deinen DHBW-Login-Daten an: https://www.dhbw-stuttgart.de/fileadmin/dateien/Wirtschaftsinformatik/Modulbeschreibungen_Studiengang_Wirtschaftsinformatik.pdf
+gibt es eine mensa von der dhbw?
+Die DHBW Stuttgart hat keine Mensa oder Cafeteria, lediglich der Campus Horb hat eine. In Stuttgart kannst du als Studierender jedoch die Mensen und Cafeterien des Studierendenwerks Stuttgart nutzen. Alle Informationen dazu findest du hier: https://www.studierendenwerk-stuttgart.de/essen/mensen-und-cafeterien 
+wo finde ich die mensa?
+Die DHBW Stuttgart hat keine Mensa oder Cafeteria, lediglich der Campus Horb hat eine. In Stuttgart kannst du als Studierender jedoch die Mensen und Cafeterien des Studierendenwerks Stuttgart nutzen. Alle Informationen dazu findest du hier: https://www.studierendenwerk-stuttgart.de/essen/mensen-und-cafeterien 
+wo gibt es etwas zu essen in der mittagspause?
+Die DHBW Stuttgart hat keine Mensa oder Cafeteria, lediglich der Campus Horb hat eine. In Stuttgart kannst du als Studierender jedoch die Mensen und Cafeterien des Studierendenwerks Stuttgart nutzen. Alle Informationen dazu findest du hier: https://www.studierendenwerk-stuttgart.de/essen/mensen-und-cafeterien 
+gibt es eine mensa oder cafeteria von der dhbw stuttgart?
+Die DHBW Stuttgart hat keine Mensa oder Cafeteria, lediglich der Campus Horb hat eine. In Stuttgart kannst du als Studierender jedoch die Mensen und Cafeterien des Studierendenwerks Stuttgart nutzen. Alle Informationen dazu findest du hier: https://www.studierendenwerk-stuttgart.de/essen/mensen-und-cafeterien 
+hat die dhbw stuttgart eine cafeteria?
+Die DHBW Stuttgart hat keine Mensa oder Cafeteria, lediglich der Campus Horb hat eine. In Stuttgart kannst du als Studierender jedoch die Mensen und Cafeterien des Studierendenwerks Stuttgart nutzen. Alle Informationen dazu findest du hier: https://www.studierendenwerk-stuttgart.de/essen/mensen-und-cafeterien 
+Welche Gebühren muss ich bezahlen?
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Wie hoch sind die Studiengebühren?
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Wie hoch sind die Studienbeiträge?
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Wie soll das Studium finanziert werden?
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Studienbeiträge
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Studienfinanzierung
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Studiengebühren
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Welche Beiträge muss ich bezahlen?
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Welche Studiengebühren muss ich bezahlen?
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Welche Studienbeiträge muss ich bezahlen?
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Wie hoch ist die Studienfinanzierung?
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Finanzierung des Studiums
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Hast du Informationen zu den Studienbeiträgen?
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Informationen zu den Studiengebühren
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+Informationen zur Studiumfinanzierung
+Informationen zu Gebühren und Beiträge sowie Informationen zur Studienfinanzierung findest du auf der folenden Seite: https://www.dhbw-stuttgart.de/studium/rund-ums-studium/gebuehren/beitraege/
+wo finde ich die dhbw-bibliothek?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Hat die DHBW eine Bibliothek?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Bibliothek
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Hat die DHBW-Stuttgart eine Bibliothek?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Wo finde ich die bib?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Wo finde ich die dhbw-bib?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Wo finde ich die dhbw bib?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Hat die DHBW eine bib?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Wo kann ich Bücher ausleihen?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Wo finde ich Fachlitartur?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Literatur
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Bücher
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Wann hat die bibliotken auf?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Bis wann hat die DHBW Bibliothek geöffnet?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Wie sind die Öffnungszeiten der Bibliothek?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Bis wann hat die bib offen?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Bis wann hat die dhbw bib geöffnet?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Wann schließt der DHBW Bibliothek?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Wo kann ich Litaraturrecherche betreiben?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Litaraturrecherche
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Wo finde ich Litratur für meine Arbeit?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Wo finde ich Bücher für meine Arbeit?
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Bibliothek
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+Litratursuche
+Umfassende Informationen zur Bibliothek der DHBW-Stuttgart findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/service/bibliothek/
+kann man ein auslandssemester machen?
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+kann man im Ausland studieren?
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Auslandssemester
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Studium im Ausland
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Auslandsaufenhalte
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Bietet die DHBW Auslandsaufenhalte an?
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Bietet die DHBW Auslandssemester an?
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Kann man Semester im Ausland verbringen?
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Bietet das Studium Auslandsaufenhalte an?
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Auslandssemster an der DHBW
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Kannst du mir Informationen zu Auslandsaufenhalte geben?
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Kannst du mir Informationen zum Studieren im Ausland geben?
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Kann man ein Semester im Ausland machen?
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Hast du Informationen zu Auslandsaufenhalte?
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Hast du Informationen zum Auslandssemester?
+Informationen zu Auslandsaufenhalte findest du unter dem folgenden Link: https://www.dhbw-stuttgart.de/studium/internationales/auslandsaufenthalte/
+Welchen Abschluss kriege ich nach dem Wirtschaftsinformatikstudium?
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Bachelor-Studium
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/wirtschaft/wirtschaftsinformatik-application-management/
+Welchen Abschluss kriege ich nach dem Studium?
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Bachelor
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/wirtschaft/wirtschaftsinformatik-application-management/
+Abschluss Studium
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Bachelor
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/wirtschaft/wirtschaftsinformatik-application-management/
+Abschluss Wirschaftsinformatikstudium
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Bachelor
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/wirtschaft/wirtschaftsinformatik-application-management/
+Wie viele ECTS-Punkte habe ich nach dem Studium?
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Bachelor
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/wirtschaft/wirtschaftsinformatik-application-management/
+Wie viele Credit-Points habe ich nach dem Studium?
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Bachelor
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/wirtschaft/wirtschaftsinformatik-application-management/
+ECTS-Punkte Studium
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Bachelor
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/wirtschaft/wirtschaftsinformatik-application-management/
+Credit-Points Studium
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Bachelor
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/wirtschaft/wirtschaftsinformatik-application-management/
+Welchen Abschluss kriege ich nach dem Wirtschaftsinformatikstudium?
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Master
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.cas.dhbw.de/fileadmin/user_upload/Studium/Wirtschaft/M_W_WI_Factsheet.pdf
+Welchen Abschluss kriege ich nach dem Studium?
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Master
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.cas.dhbw.de/fileadmin/user_upload/Studium/Wirtschaft/M_W_WI_Factsheet.pdf
+Abschluss Studium
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Master
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.cas.dhbw.de/fileadmin/user_upload/Studium/Wirtschaft/M_W_WI_Factsheet.pdf
+Abschluss Wirschaftsinformatikstudium
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Master
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.cas.dhbw.de/fileadmin/user_upload/Studium/Wirtschaft/M_W_WI_Factsheet.pdf
+Wie viele ECTS-Punkte habe ich nach dem Studium?
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Master
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.cas.dhbw.de/fileadmin/user_upload/Studium/Wirtschaft/M_W_WI_Factsheet.pdf
+Wie viele Credit-Points habe ich nach dem Studium?
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Master
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.cas.dhbw.de/fileadmin/user_upload/Studium/Wirtschaft/M_W_WI_Factsheet.pdf
+ECTS-Punkte Studium
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Master
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.cas.dhbw.de/fileadmin/user_upload/Studium/Wirtschaft/M_W_WI_Factsheet.pdf
+Credit-Points Studium
+Beziehst du dich auf das Bachelor- oder Master-Studium?
+Master
+Eckdaten zum Studiumabschluss findest unter der folgenden Seite: https://www.cas.dhbw.de/fileadmin/user_upload/Studium/Wirtschaft/M_W_WI_Factsheet.pdf
+wo finde ich die prüfungsordnung?
+Informationen zu den Studien- und Prüfungsordnungen findest du auf der folgenden Seite: https://www.dhbw-stuttgart.de/service/downloads/studierende/
+prüfungsordnung
+Informationen zu den Studien- und Prüfungsordnungen findest du auf der folgenden Seite: https://www.dhbw-stuttgart.de/service/downloads/studierende/
+Prüfungsrichtlinien
+Informationen zu den Studien- und Prüfungsordnungen findest du auf der folgenden Seite: https://www.dhbw-stuttgart.de/service/downloads/studierende/
+Wo finde ich die Prüfungsrichtlinien?
+Informationen zu den Studien- und Prüfungsordnungen findest du auf der folgenden Seite: https://www.dhbw-stuttgart.de/service/downloads/studierende/
+Informationen zur prüfungsordnung
+Informationen zu den Studien- und Prüfungsordnungen findest du auf der folgenden Seite: https://www.dhbw-stuttgart.de/service/downloads/studierende/
+Kannst du mir Informationen zur Prüfungsordnung geben?
+Informationen zu den Studien- und Prüfungsordnungen findest du auf der folgenden Seite: https://www.dhbw-stuttgart.de/service/downloads/studierende/
+Prüfungsvorgaben
+Informationen zu den Studien- und Prüfungsordnungen findest du auf der folgenden Seite: https://www.dhbw-stuttgart.de/service/downloads/studierende/
+Wo finde ich die Prüfungsvorgaben?
+Informationen zu den Studien- und Prüfungsordnungen findest du auf der folgenden Seite: https://www.dhbw-stuttgart.de/service/downloads/studierende/
+Informationen zur den Prüfungsvorgaben
+Informationen zu den Studien- und Prüfungsordnungen findest du auf der folgenden Seite: https://www.dhbw-stuttgart.de/service/downloads/studierende/
+Informationen zur den Prüfungsrichtlinien
+Informationen zu den Studien- und Prüfungsordnungen findest du auf der folgenden Seite: https://www.dhbw-stuttgart.de/service/downloads/studierende/

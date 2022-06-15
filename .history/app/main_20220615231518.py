@@ -25,7 +25,7 @@ chatbot = ChatBot(
         {
         'import_path': 'chatterbot.logic.BestMatch',
         'default_response': 'Leider konnte ich dich nicht verstehen. Wende dich bitte an einen Ansprechpartner der DHBW Stuttgart.',
-        'maximum_similarity_threshold': 0.90
+        'maximum_similarity_threshold': 0.99,
         }
     ]
 ) 

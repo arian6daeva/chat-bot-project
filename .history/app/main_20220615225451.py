@@ -1,19 +1,13 @@
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 from chatterbot.trainers import ChatterBotCorpusTrainer
-# from chatterbot.comparisons import LevenshteinDistance
-from chatterbot.response_selection import get_most_frequent_response
+from chatterbot.comparisons import LevenshteinDistance
+from chatterbot.response_selection import get_first_response
 
 chatbot = ChatBot(
     'Chatty',
     language='GER',
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
-    database_uri=None,
-    preprocessors=[
-        'chatterbot.preprocessors.clean_whitespace',
-        'chatterbot.preprocessors.unescape_html',
-        'chatterbot.preprocessors.convert_to_ascii'
-    ],
     # logic_adapters=[
     #     {
     #         "import_path": "chatterbot.logic.BestMatch",
@@ -22,12 +16,14 @@ chatbot = ChatBot(
     #     }
     # ],
     logic_adapters=[
+        'chatterbot.logic.BestMatch',
         {
         'import_path': 'chatterbot.logic.BestMatch',
         'default_response': 'Leider konnte ich dich nicht verstehen. Wende dich bitte an einen Ansprechpartner der DHBW Stuttgart.',
-        'maximum_similarity_threshold': 0.90
+        'maximum_similarity_threshold': 0.99,
         }
-    ]
+    ],
+    database_uri='sqlite:///database.sqlite3'
 ) 
 
  # Training with Personal Ques & Ans 
