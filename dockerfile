@@ -11,6 +11,17 @@ RUN pip install --no-cache-dir -r requirements.txt
 # RUN pip install git+https://github.com/gunthercox/chatterbot-corpus.git#egg=chatterbot-corpus
 # RUN pip install spacy==2.3.5
 # RUN pip install spacy en_core_web_sm --force
+ 
+# CMD [ "python", "-m spacy download de_dep_news_trf"]
 
-CMD [ "python", "./app/main.py" ]
+COPY chatterbot /usr/local/lib/python3.7/site-packages/chatterbot/
+# COPY comparisons.py /usr/local/lib/python3.7/site-packages/chatterbot/
+# COPY tagging.py /usr/local/lib/python3.7/site-packages/chatterbot/
+# COPY languages.py /usr/local/lib/python3.7/site-packages/chatterbot/
+
+
+
+
+CMD [ "./entrypoint.sh" ]
+# CMD [ "python", "./app/main.py" ]
 # ENTRYPOINT ["tail", "/dev/null"]

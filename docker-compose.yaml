@@ -9,11 +9,3 @@ services:
             - "5000:5000"
         volumes:
             - "./datenbank:/usr/src/datenbank"
-
-#     web_server:
-#         restart: always
-#         build: 
-#           dockerfile: dockerfile
-#           context: ./web
-#         ports: 
-#           - '5000:80'
