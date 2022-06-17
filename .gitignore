@@ -2,6 +2,7 @@
 .vscode/
 .idea/
 .history
+database.sqlite3
 
 # Vagrant
 .vagrant/
