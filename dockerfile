@@ -22,6 +22,6 @@ COPY trainingsdaten /usr/local/lib/python3.7/site-packages/chatterbot_corpus/dat
 # COPY languages.py /usr/local/lib/python3.7/site-packages/chatterbot/
 
 
-CMD [ "./entrypoint.sh" ]
+CMD [ "sh","./entrypoint.sh" ]
 # CMD [ "python", "./app/main.py" ]
 # ENTRYPOINT ["tail", "/dev/null"]
