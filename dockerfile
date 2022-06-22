@@ -15,11 +15,11 @@ RUN pip install --no-cache-dir -r requirements.txt
 # CMD [ "python", "-m spacy download de_dep_news_trf"]
 
 COPY chatterbot /usr/local/lib/python3.7/site-packages/chatterbot/
+RUN mkdir -p /usr/local/lib/python3.7/site-packages/chatterbot_corpus/data/dhbw
+COPY trainingsdaten /usr/local/lib/python3.7/site-packages/chatterbot_corpus/data/dhbw/
 # COPY comparisons.py /usr/local/lib/python3.7/site-packages/chatterbot/
 # COPY tagging.py /usr/local/lib/python3.7/site-packages/chatterbot/
 # COPY languages.py /usr/local/lib/python3.7/site-packages/chatterbot/
-
-
 
 
 CMD [ "./entrypoint.sh" ]

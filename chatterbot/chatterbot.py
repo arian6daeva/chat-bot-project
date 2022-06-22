@@ -153,7 +153,7 @@ class ChatBot(object):
                 results.append(output)
 
                 self.logger.info(
-                    '{} selected "{}" as a response with a confidence of {}'.format(
+                    '{} wählte "{}" als Antwort mit einer Sicherheit von {}'.format(
                         adapter.class_name, output.text, output.confidence
                     )
                 )
@@ -163,7 +163,7 @@ class ChatBot(object):
                     max_confidence = output.confidence
             else:
                 self.logger.info(
-                    'Not processing the statement using {}'.format(adapter.class_name)
+                    'Keine Verarbeitung der Anweisung mit {}'.format(adapter.class_name)
                 )
 
         class ResultOption:
@@ -226,7 +226,7 @@ class ChatBot(object):
         elif isinstance(previous_statement, str):
             statement.in_response_to = previous_statement
 
-        self.logger.info('Adding "{}" as a response to "{}"'.format(
+        self.logger.info('Hinzufügen von "{}" als Antwort auf "{}" in die Datenbank.'.format(
             statement.text,
             previous_statement_text
         ))

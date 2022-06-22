@@ -20,7 +20,6 @@ class ACH:
     ISO_639_1 = ''
     ISO_639 = 'ach'
     ENGLISH_NAME = 'Acoli'
-    SPACY_MODEL = ''
 
 
 class ADA:
@@ -39,7 +38,6 @@ class AFH:
     ISO_639_1 = ''
     ISO_639 = 'afh'
     ENGLISH_NAME = 'Afrihili'
-    SPACY_MODEL = ''
 
 
 class AFR:
@@ -328,7 +326,6 @@ class CAT:
     ISO_639_1 = ''
     ISO_639 = 'cat'
     ENGLISH_NAME = 'Catalan'
-    SPACY_MODEL = 'ca_core_news_sm'
 
 
 class CEB:
@@ -365,7 +362,6 @@ class CHI:
     ISO_639_1 = 'zh'
     ISO_639 = 'chi'
     ENGLISH_NAME = 'Chinese'
-    SPACY_MODEL = 'zh_core_web_sm'
 
 
 class CHK:
@@ -498,7 +494,6 @@ class DAN:
     ISO_639_1 = ''
     ISO_639 = 'dan'
     ENGLISH_NAME = 'Danish'
-    SPACY_MODEL = 'da_core_news_sm'
 
 
 class DAR:
@@ -553,7 +548,6 @@ class DUT:
     ISO_639_1 = 'nl'
     ISO_639 = 'dut'
     ENGLISH_NAME = 'Dutch'
-    SPACY_MODEL = 'nl_core_news_sm'
 
 
 class DYU:
@@ -590,7 +584,6 @@ class ENG:
     ISO_639_1 = 'en'
     ISO_639 = 'eng'
     ENGLISH_NAME = 'English'
-    SPACY_MODEL = 'en_core_web_sm'
 
 
 class EPO:
@@ -663,7 +656,6 @@ class FRE:
     ISO_639_1 = ''
     ISO_639 = 'fre'
     ENGLISH_NAME = 'French'
-    SPACY_MODEL = 'fr_core_news_sm'
 
 
 class FRR:
@@ -724,7 +716,7 @@ class GER:
     ISO_639_1 = 'de'
     ISO_639 = 'ger'
     ENGLISH_NAME = 'German'
-    SPACY_MODEL = 'de_dep_news_trf'
+    SPACY_MODEL = 'de_core_news_md'
 
 
 class GEZ:
@@ -791,7 +783,6 @@ class GRE:
     ISO_639_1 = 'el'
     ISO_639 = 'gre'
     ENGLISH_NAME = 'Greek'
-    SPACY_MODEL = 'el_core_news_sm'
 
 
 class GRN:
@@ -984,7 +975,6 @@ class ITA:
     ISO_639_1 = ''
     ISO_639 = 'ita'
     ENGLISH_NAME = 'Italian'
-    SPACY_MODEL = 'it_core_news_sm'
 
 
 class JAV:
@@ -1003,7 +993,6 @@ class JPN:
     ISO_639_1 = 'ja'
     ISO_639 = 'jpn'
     ENGLISH_NAME = 'Japanese'
-    SPACY_MODEL = 'ja_core_news_sm'
 
 
 class JPR:
@@ -1262,7 +1251,6 @@ class LIT:
     ISO_639_1 = ''
     ISO_639 = 'lit'
     ENGLISH_NAME = 'Lithuanian'
-    SPACY_MODEL = 'lt_core_news_sm'
 
 
 class LOL:
@@ -1329,7 +1317,6 @@ class MAC:
     ISO_639_1 = ''
     ISO_639 = 'mac'
     ENGLISH_NAME = 'Macedonian'
-    SPACY_MODEL = 'mk_core_news_sm'
 
 
 class MAD:
@@ -1558,7 +1545,6 @@ class NNO:
     ISO_639_1 = ''
     ISO_639 = 'nno'
     ENGLISH_NAME = 'NorwegianNynorsk'
-    SPACY_MODEL = 'nb_core_news_sm'
 
 
 class NOB:
@@ -1709,7 +1695,6 @@ class POL:
     ISO_639_1 = ''
     ISO_639 = 'pol'
     ENGLISH_NAME = 'Polish'
-    SPACY_MODEL = 'pl_core_news_sm'
 
 
 class PON:
@@ -1722,7 +1707,6 @@ class POR:
     ISO_639_1 = 'pt'
     ISO_639 = 'por'
     ENGLISH_NAME = 'Portuguese'
-    SPACY_MODEL = 'pt_core_news_sm'
 
 
 class PUS:
@@ -1771,7 +1755,6 @@ class RUM:
     ISO_639_1 = ''
     ISO_639 = 'rum'
     ENGLISH_NAME = 'Romanian'
-    SPACY_MODEL = 'ro_core_news_sm'
 
 
 class RUN:
@@ -1790,7 +1773,6 @@ class RUS:
     ISO_639_1 = 'ru'
     ISO_639 = 'rus'
     ENGLISH_NAME = 'Russian'
-    SPACY_MODEL = 'ru_core_news_sm'
 
 
 class SAD:
@@ -1959,7 +1941,6 @@ class SPA:
     ISO_639_1 = 'es'
     ISO_639 = 'spa'
     ENGLISH_NAME = 'Spanish'
-    SPACY_MODEL = 'es_core_news_sm'
 
 
 class SRD:

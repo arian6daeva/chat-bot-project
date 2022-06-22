@@ -206,7 +206,7 @@ class UbuntuCorpusTrainer(Trainer):
         Check if the data file is already downloaded.
         """
         if os.path.exists(file_path):
-            self.chatbot.logger.info('File is already downloaded')
+            self.chatbot.logger.info('Datei ist bereits heruntergeladen')
             return True
 
         return False
@@ -217,7 +217,7 @@ class UbuntuCorpusTrainer(Trainer):
         """
 
         if os.path.isdir(file_path):
-            self.chatbot.logger.info('File is already extracted')
+            self.chatbot.logger.info('Datei ist bereits extrahiert')
             return True
         return False
 
@@ -281,7 +281,7 @@ class UbuntuCorpusTrainer(Trainer):
         with tarfile.open(file_path) as tar:
             tar.extractall(path=self.extracted_data_directory, members=track_progress(tar))
 
-        self.chatbot.logger.info('File extracted to {}'.format(self.extracted_data_directory))
+        self.chatbot.logger.info('Datei extrahiert nach {}'.format(self.extracted_data_directory))
 
         return True
 

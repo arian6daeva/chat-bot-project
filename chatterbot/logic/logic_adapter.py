@@ -116,7 +116,7 @@ class LogicAdapter(Adapter):
                 response = input_statement
 
         self.chatbot.logger.info(
-            'No known response to the input was found. Selecting a random response.'
+            'Es wurde keine bekannte Antwort auf die Eingabe gefunden. Auswählen einer zufälligen Antwort.'
         )
 
         # Set confidence to zero because a random response is selected

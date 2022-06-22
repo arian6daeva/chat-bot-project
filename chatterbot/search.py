@@ -41,13 +41,14 @@ class IndexedTextSearch:
 
         :rtype: Generator yielding one closest matching statement at a time.
         """
-        self.chatbot.logger.info('Beginning search for close text match')
+        self.chatbot.logger.info('+++ NEUE ANFRAGE +++')
+        self.chatbot.logger.info('Beginn der Suche nach einem passenden Match')
 
         input_search_text = input_statement.search_text
 
         if not input_statement.search_text:
             self.chatbot.logger.warn(
-                'No value for search_text was available on the provided input'
+                'Es wurde kein Wert für search_text in der angegebenen Eingabe gefunden'
             )
 
             input_search_text = self.chatbot.storage.tagger.get_text_index_string(
@@ -67,7 +68,7 @@ class IndexedTextSearch:
 
         best_confidence_so_far = 0
 
-        self.chatbot.logger.info('Processing search results')
+        self.chatbot.logger.info('Verarbeitung der Suchergebnisse')
 
         # Find the closest matching known statement
         for statement in statement_list:
@@ -77,7 +78,7 @@ class IndexedTextSearch:
                 best_confidence_so_far = confidence
                 statement.confidence = confidence
 
-                self.chatbot.logger.info('Similar text found: {} {}'.format(
+                self.chatbot.logger.info('Ähnlicher Text gefunden: "{}" mit einer Sicherheit von {} '.format(
                     statement.text, confidence
                 ))
 
@@ -127,7 +128,8 @@ class TextSearch:
 
         :rtype: Generator yielding one closest matching statement at a time.
         """
-        self.chatbot.logger.info('Beginning search for close text match')
+        self.chatbot.logger.info('+++ NEUE ANFRAGE +++')
+        self.chatbot.logger.info('Beginn der Suche nach einem passenden Match')
 
         search_parameters = {
             'persona_not_startswith': 'bot:',
@@ -141,7 +143,7 @@ class TextSearch:
 
         best_confidence_so_far = 0
 
-        self.chatbot.logger.info('Processing search results')
+        self.chatbot.logger.info('Verarbeitung der Suchergebnisse')
 
         # Find the closest matching known statement
         for statement in statement_list:
@@ -151,7 +153,7 @@ class TextSearch:
                 best_confidence_so_far = confidence
                 statement.confidence = confidence
 
-                self.chatbot.logger.info('Similar text found: {} {}'.format(
+                self.chatbot.logger.info('Ähnlicher Text gefunden: {} {}'.format(
                     statement.text, confidence
                 ))
 

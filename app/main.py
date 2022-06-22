@@ -1,8 +1,9 @@
 import os
 from chatterbot import ChatBot
-from chatterbot.trainers import ListTrainer
+# from chatterbot.trainers import ListTrainer
+from chatterbot.trainers import ChatterBotCorpusTrainer
 from chatterbot.languages import GER
-from chatterbot.response_selection import get_random_response
+# from chatterbot.response_selection import get_random_response
 from chatterbot.comparisons import SpacySimilarity, LevenshteinDistance, JaccardSimilarity
 
 import logging
@@ -21,27 +22,18 @@ chatbot = ChatBot(
         {
         'import_path': 'chatterbot.logic.BestMatch',
         "statement_comparison_function": SpacySimilarity,
-        "response_selection_method": get_random_response,
-        'default_response': 'Leider konnte ich dich nicht verstehen. Wende dich bitte an einen Ansprechpartner der DHBW Stuttgart.'
-        },
-        {
-        'import_path': 'chatterbot.logic.BestMatch',
-        "statement_comparison_function": LevenshteinDistance,
-        "response_selection_method": get_random_response,
-        'default_response': 'Leider konnte ich dich nicht verstehen. Wende dich bitte an einen Ansprechpartner der DHBW Stuttgart.'
-        },
-        {
-        'import_path': 'chatterbot.logic.BestMatch',
-        "statement_comparison_function": JaccardSimilarity,
-        "response_selection_method": get_random_response,
         'default_response': 'Leider konnte ich dich nicht verstehen. Wende dich bitte an einen Ansprechpartner der DHBW Stuttgart.'
         }
     ]
 ) 
 
-trainer = ListTrainer(chatbot)
-training_data = open('training_data/konversationen.txt').read().splitlines()
-trainer.train(training_data) 
+trainer = ChatterBotCorpusTrainer(chatbot)
+trainer.train(
+    "chatterbot.corpus.dhbw"
+)
+
+# training_data = open('training_data/konversationen.txt').read().splitlines()
+# trainer.train(training_data) 
 
 from flask import Flask, render_template, request
 

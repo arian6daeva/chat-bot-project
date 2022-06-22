@@ -24,7 +24,7 @@ def get_most_frequent_response(input_statement, response_list, storage=None):
     occurrence_count = -1
 
     logger = logging.getLogger(__name__)
-    logger.info('Selecting response with greatest number of occurrences.')
+    logger.info('Auswahl der Antwort mit der größten Anzahl von Häufigkeiten.')
 
     for statement in response_list:
         count = len(list(storage.filter(
@@ -57,7 +57,7 @@ def get_first_response(input_statement, response_list, storage=None):
     :rtype: Statement
     """
     logger = logging.getLogger(__name__)
-    logger.info('Selecting first response from list of {} options.'.format(
+    logger.info('Auswahl der ersten Antwort aus der Liste der {} Optionen.'.format(
         len(response_list)
     ))
     return response_list[0]
@@ -80,7 +80,7 @@ def get_random_response(input_statement, response_list, storage=None):
     """
     from random import choice
     logger = logging.getLogger(__name__)
-    logger.info('Selecting a response from list of {} options.'.format(
+    logger.info('Auswahl einer Antwort aus einer Liste von {} Optionen.'.format(
         len(response_list)
     ))
     return choice(response_list)
