@@ -10,19 +10,19 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 chatbot = ChatBot(
-    'DHBW-Chatbot',
+    "DHBW-Chatbot",
     language=GER,
     tagger_language=GER,
     preprocessors=[
-        'chatterbot.preprocessors.clean_whitespace'
+        "chatterbot.preprocessors.clean_whitespace",
     ],
-    storage_adapter='chatterbot.storage.SQLStorageAdapter',
-    database_uri='sqlite:///./datenbank/database.sqlite3',
+    storage_adapter="chatterbot.storage.SQLStorageAdapter",
+    database_uri="sqlite:///./datenbank/database.sqlite3",
     logic_adapters=[
         {
-        'import_path': 'chatterbot.logic.BestMatch',
+        "import_path": "chatterbot.logic.BestMatch",
         "statement_comparison_function": SpacySimilarity,
-        'default_response': 'Leider konnte ich dich nicht verstehen. Wende dich bitte an einen Ansprechpartner der DHBW Stuttgart.'
+        "default_response": "Leider konnte ich dich nicht verstehen. Wende dich bitte an einen Ansprechpartner der DHBW Stuttgart."
         }
     ]
 ) 
@@ -32,13 +32,13 @@ trainer.train(
     "chatterbot.corpus.dhbw"
 )
 
-# training_data = open('training_data/konversationen.txt').read().splitlines()
+# training_data = open("training_data/konversationen.txt").read().splitlines()
 # trainer.train(training_data) 
 
 from flask import Flask, render_template, request
 
 app = Flask(__name__)
-app.static_folder = 'static'
+app.static_folder = "static"
 
 @app.route("/")
 def home():
@@ -46,8 +46,8 @@ def home():
 
 @app.route("/get")
 def get_bot_response():
-    userText = request.args.get('msg')
+    userText = request.args.get("msg")
     return str(chatbot.get_response(userText))
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     app.run(host="0.0.0.0")

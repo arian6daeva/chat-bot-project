@@ -1,7 +1,5 @@
-flask
-# chatterbot==1.0.4
-chatterbot
-chatterbot_corpus
-# chatterbot_corpus==1.2.0
-spacy
+Flask==2.1.2
+ChatterBot==1.0.8
+chatterbot_corpus==1.2.0
+spacy==3.3.1
 pytz==2022.1

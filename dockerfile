@@ -1,7 +1,6 @@
 FROM python:3.7.13-slim-buster
 
 RUN apt-get -y update
-# RUN apt-get -y install git
 RUN python3 -m pip install --upgrade pip setuptools wheel
 WORKDIR /usr/src
 
@@ -21,7 +20,7 @@ COPY trainingsdaten /usr/local/lib/python3.7/site-packages/chatterbot_corpus/dat
 # COPY tagging.py /usr/local/lib/python3.7/site-packages/chatterbot/
 # COPY languages.py /usr/local/lib/python3.7/site-packages/chatterbot/
 
-
 CMD [ "sh","./entrypoint.sh" ]
+
 # CMD [ "python", "./app/main.py" ]
 # ENTRYPOINT ["tail", "/dev/null"]
